@@ -1,4 +1,4 @@
-# Travel Planning App ✈
+# Travel Planning App 
 
 A smart and user-friendly mobile application designed to simplify the travel planning experience. Whether you're going on a weekend trip or an international tour, this app acts as your personal travel assistant — helping you plan itineraries, manage budgets, book flights, track checklists, and explore destinations all in one place.
 
